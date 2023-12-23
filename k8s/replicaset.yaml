@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: goserver
-          image: "ianmateuses/hello-go:latest"
+          image: "ianmateuses/hello-go:v2"
